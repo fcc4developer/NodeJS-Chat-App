@@ -5,7 +5,7 @@ Live Chat App made with NodeJS, ExpressJS using Socket.io
 
 Node 10.14.1
 
-# development setup
+# Development setup
 
 Install Node
 
